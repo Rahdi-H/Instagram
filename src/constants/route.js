@@ -1,0 +1,6 @@
+export const DASHBOARD = "/"
+export const SIGN_UP = "/sign-up"
+export const LOGIN = "/login"
+export const PROFILE = "/profile/:username"
+export const PROFILE_EDIT = "/profile/:username/edit"
+export const NOT_FOUND = "/not-found"
